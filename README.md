@@ -1,1 +1,2 @@
 # WEB-SCRAPPING
+I am using the website "Quotes to Scrape". I have used the requests library to scrape the data from this webpage and saved it locally on my system. I used BeautifulSoup library to extract information from the webpage. Specifically, I scraped the quotes, author names, and tags from the webpage. I then converted this data into a DataFrame using the Pandas library, and saved it into a CSV file.
